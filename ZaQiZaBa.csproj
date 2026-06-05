@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ZaQiZaBa</RootNamespace>
+    <AssemblyName>ZaQiZaBa</AssemblyName>
+    <!-- 禁用不需要的警告 -->
+    <NoWarn>STS002;MSB3245</NoWarn>
+  </PropertyGroup>
+
+  <Target Name="CopyToModDir" AfterTargets="Build">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="D:\SteamLibrary\steamapps\common\Slay the Spire 2\mods\ZaQiZaBa\" />
+  </Target>
+
+  <ItemGroup>
+    <PackageReference Include="GodotSharp" Version="4.5.1" />
+    <PackageReference Include="Alchyr.Sts2.ModAnalyzers" Version="0.0.9" />
+    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- 游戏核心程序集（从游戏目录引用） -->
+    <Reference Include="sts2">
+      <HintPath>D:\SteamLibrary\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\sts2.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>D:\SteamLibrary\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="RitsuLib">
+      <HintPath>D:\SteamLibrary\steamapps\common\Slay the Spire 2\mods\RitsuLib\STS2-RitsuLib.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

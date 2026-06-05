@@ -1,0 +1,9 @@
+{"id": "ZaQiZaBa", 
+"name": "杂七杂八", 
+"author": "ASHX8", 
+"description": "一些乱七八糟的功能", 
+"version": "v0.1", 
+"has_pck": true, 
+"has_dll": true, 
+"dependencies": ["STS2-RitsuLib"], 
+"affects_gameplay": true}

@@ -1,0 +1,12 @@
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.csproj.AssemblyReference.cache
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.AssemblyInfoInputs.cache
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.AssemblyInfo.cs
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.csproj.CoreCompileInputs.cache
+D:\Project\github\ZaQiZaBa\bin\Debug\net9.0\ZaQiZaBa.deps.json
+D:\Project\github\ZaQiZaBa\bin\Debug\net9.0\ZaQiZaBa.dll
+D:\Project\github\ZaQiZaBa\bin\Debug\net9.0\ZaQiZaBa.pdb
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.dll
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\refint\ZaQiZaBa.dll
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ZaQiZaBa.pdb
+D:\Project\github\ZaQiZaBa\obj\Debug\net9.0\ref\ZaQiZaBa.dll

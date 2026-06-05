@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Zm1yjvTMTo=",
+  "success": true,
+  "projectFilePath": "d:\\Project\\github\\ZaQiZaBa\\ZaQiZaBa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xianyu\\.nuget\\packages\\alchyr.sts2.modanalyzers\\0.0.9\\alchyr.sts2.modanalyzers.0.0.9.nupkg.sha512",
+    "C:\\Users\\xianyu\\.nuget\\packages\\godotsharp\\4.5.1\\godotsharp.4.5.1.nupkg.sha512",
+    "C:\\Users\\xianyu\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
+    "C:\\Users\\xianyu\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\xianyu\\.nuget\\packages\\system.text.json\\8.0.1\\system.text.json.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
